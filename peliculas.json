@@ -1,0 +1,34 @@
+{
+  "categorias": [
+    {
+      "nombre": "[COLOR cyan]★ ESTRENOS 2025 ★[/COLOR]",
+      "id": "estrenos_2025",
+      "thumb": "https://raw.githubusercontent.com/TuUsuario/TuRepo/main/media/estrenos.png",
+      "contenido": [
+        {
+          "nombre": "[COLOR white]La Faltona: El Inicio[/COLOR]",
+          "url": "https://tu-servidor.com/video1.mp4",
+          "thumb": "https://tu-servidor.com/poster1.jpg"
+        }
+      ]
+    },
+    {
+      "nombre": "[COLOR wine]⚡ ACCIÓN EXTREMA[/COLOR]",
+      "id": "accion",
+      "thumb": "https://raw.githubusercontent.com/TuUsuario/TuRepo/main/media/accion.png",
+      "contenido": [
+        {
+          "nombre": "Rápido y Furioso 20",
+          "url": "https://tu-servidor.com/video2.mp4",
+          "thumb": "https://tu-servidor.com/poster2.jpg"
+        }
+      ]
+    },
+    {
+      "nombre": "[COLOR lime]😂 COMEDIA[/COLOR]",
+      "id": "comedia",
+      "thumb": "https://raw.githubusercontent.com/TuUsuario/TuRepo/main/media/comedia.png",
+      "contenido": []
+    }
+  ]
+}
