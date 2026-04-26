@@ -39,6 +39,11 @@
           "nombre": "Culpa nuestra",
           "url": "magnet:?xt=urn:btih:e61f22495a89e909a3962d3989c4021272767073&dn=Culpa.Nuestra.2025.1080p.MP4",
           "thumb": "https://image.tmdb.org/t/p/original//6kmi6vmp6iOn4KzI7WfnVtAeJhU.jpg"
+        },
+        {
+          "nombre": "El hoyo 2",
+          "url": "magnet:?xt=urn:btih:28d5bf98d40b4e8281ecb31cfef9d056b06a21d5&dn=El.hoyo.2.2024.WEB-DL.1080p-Cast&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80%2Fannounce&tr=udp%3A%2F%2Ftracker.opentrackr.org%3A1337%2Fannounce",
+          "thumb": "https://image.tmdb.org/t/p/original//jHGgM019xAoy62cKZtDmTxvQlUY.jpg"
         }
       ]
     }
